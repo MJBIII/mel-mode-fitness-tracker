@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mel-mode-fitness-tracker/static/css/main.98598724.css",
+    "main.js": "/mel-mode-fitness-tracker/static/js/main.70ca5174.js",
+    "static/js/453.2ed70946.chunk.js": "/mel-mode-fitness-tracker/static/js/453.2ed70946.chunk.js",
+    "index.html": "/mel-mode-fitness-tracker/index.html",
+    "main.98598724.css.map": "/mel-mode-fitness-tracker/static/css/main.98598724.css.map",
+    "main.70ca5174.js.map": "/mel-mode-fitness-tracker/static/js/main.70ca5174.js.map",
+    "453.2ed70946.chunk.js.map": "/mel-mode-fitness-tracker/static/js/453.2ed70946.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98598724.css",
+    "static/js/main.70ca5174.js"
+  ]
+}
